@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         String str = jniUtil.getStringFormC();
         Log.e("EK",str);
         textView.setText(str);
+        //dfdfdfdfff
     }
 }
